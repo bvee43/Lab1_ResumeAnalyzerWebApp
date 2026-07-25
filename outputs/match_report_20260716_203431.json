@@ -1,0 +1,330 @@
+{
+  "meta": {
+    "resume_path": "inputs/weak_resume.pdf",
+    "job_path": "inputs/job_unrelated.txt",
+    "model": "gemini/gemini-3.1-flash-lite",
+    "generated_at": "2026-07-16T20:34:29"
+  },
+  "resume_profile": {
+    "name": "JAMIE LEE",
+    "contact": {
+      "email": "jamie@gmail.com",
+      "phone": "",
+      "linkedin": "",
+      "github": "",
+      "portfolio": ""
+    },
+    "summary": "",
+    "education": [
+      {
+        "school": "DigiPen Institute of Technology Singapore",
+        "degree": "Bachelor of Science in Real-Time Interactive Simulation (RTIS)",
+        "graduation_date": "May 2026",
+        "courses": []
+      }
+    ],
+    "projects": [
+      {
+        "title": "3D Game",
+        "date": "2025",
+        "bullets": [
+          "Made a game with a game loop and sprite rendering.",
+          "Built a level editor.",
+          "Added mob spawner and enemy AI.",
+          "Implemented HP bar and HUD using C++."
+        ]
+      },
+      {
+        "title": "Game Jam Project",
+        "date": "2024",
+        "bullets": [
+          "Shipped a game in 48 hours.",
+          "Did collision detection.",
+          "Made asset pipeline."
+        ]
+      },
+      {
+        "title": "Multiplayer Game",
+        "date": "2023",
+        "bullets": [
+          "Worked on multiplayer netcode.",
+          "Built game loop and tiled map loading."
+        ]
+      }
+    ],
+    "experience": [],
+    "skills": {
+      "languages": [
+        "C++"
+      ],
+      "frameworks": [
+        "Unity",
+        "Unreal"
+      ],
+      "tools": [
+        "ImGUI"
+      ],
+      "concepts": [],
+      "platforms": []
+    }
+  },
+  "jd_profile": {
+    "job_title": "Marketing Specialist \u2014 Digital Campaigns",
+    "company": "FreshMart Singapore Pte Ltd",
+    "location": "Paya Lebar, Singapore",
+    "employment_type": "On-site",
+    "salary_range": {
+      "min": 3000,
+      "max": 4000,
+      "currency": "SGD"
+    },
+    "experience_required": "1\u20132 years",
+    "key_responsibilities": [
+      "Plan and execute multi-channel digital marketing campaigns (Google Ads, Meta, TikTok, email)",
+      "Manage social media content calendars and community engagement",
+      "Analyse campaign performance using Google Analytics and Meta Business Suite",
+      "Write copy for email newsletters, landing pages, and social media posts",
+      "Coordinate with the creative team for campaign assets",
+      "Report on KPIs: CAC, ROAS, CTR, conversion rate, retention"
+    ],
+    "required_skills": [
+      "Google Ads",
+      "Meta Ads Manager",
+      "Copywriting",
+      "Email marketing platforms (Mailchimp, Klaviyo, or similar)",
+      "Data analysis",
+      "Brand consistency"
+    ],
+    "preferred_skills": [
+      "A/B testing",
+      "Conversion rate optimisation",
+      "SEO fundamentals",
+      "Customer segmentation",
+      "Lifecycle marketing",
+      "Graphic design (Canva, Figma, or Adobe suite)"
+    ],
+    "education_requirements": "Diploma or degree in Marketing, Communications, Business, or related field"
+  },
+  "keyword_match": {
+    "present": [],
+    "missing": [
+      {
+        "keyword": "Google Ads",
+        "category": "tool",
+        "importance": "required",
+        "suggested_section": "skills",
+        "why_it_matters": "The JD requires experience planning and executing digital marketing campaigns specifically using Google Ads."
+      },
+      {
+        "keyword": "Meta Ads Manager",
+        "category": "tool",
+        "importance": "required",
+        "suggested_section": "skills",
+        "why_it_matters": "The JD requires proficiency in Meta Ads Manager for executing campaigns and analyzing performance."
+      },
+      {
+        "keyword": "Copywriting",
+        "category": "soft_skill",
+        "importance": "required",
+        "suggested_section": "skills",
+        "why_it_matters": "The JD requires the ability to write copy for newsletters, landing pages, and social media."
+      },
+      {
+        "keyword": "Email marketing platforms",
+        "category": "tool",
+        "importance": "required",
+        "suggested_section": "skills",
+        "why_it_matters": "The JD requires experience with email marketing platforms like Mailchimp or Klaviyo."
+      },
+      {
+        "keyword": "Data analysis",
+        "category": "concept",
+        "importance": "required",
+        "suggested_section": "skills",
+        "why_it_matters": "The JD requires the ability to analyze campaign performance and report on KPIs."
+      },
+      {
+        "keyword": "Brand consistency",
+        "category": "concept",
+        "importance": "required",
+        "suggested_section": "skills",
+        "why_it_matters": "The JD requires maintaining brand consistency across all digital marketing channels."
+      },
+      {
+        "keyword": "A/B testing",
+        "category": "concept",
+        "importance": "preferred",
+        "suggested_section": "skills",
+        "why_it_matters": "The JD lists A/B testing as a preferred skill for campaign optimization."
+      },
+      {
+        "keyword": "Conversion rate optimisation",
+        "category": "concept",
+        "importance": "preferred",
+        "suggested_section": "skills",
+        "why_it_matters": "The JD lists conversion rate optimisation as a preferred skill for improving campaign performance."
+      },
+      {
+        "keyword": "SEO fundamentals",
+        "category": "concept",
+        "importance": "preferred",
+        "suggested_section": "skills",
+        "why_it_matters": "The JD lists SEO fundamentals as a preferred skill for digital marketing efforts."
+      },
+      {
+        "keyword": "Customer segmentation",
+        "category": "concept",
+        "importance": "preferred",
+        "suggested_section": "skills",
+        "why_it_matters": "The JD lists customer segmentation as a preferred skill for targeted marketing."
+      },
+      {
+        "keyword": "Lifecycle marketing",
+        "category": "concept",
+        "importance": "preferred",
+        "suggested_section": "skills",
+        "why_it_matters": "The JD lists lifecycle marketing as a preferred skill for managing customer retention."
+      },
+      {
+        "keyword": "Graphic design",
+        "category": "tool",
+        "importance": "preferred",
+        "suggested_section": "skills",
+        "why_it_matters": "The JD lists graphic design tools like Canva, Figma, or Adobe suite as preferred skills."
+      }
+    ],
+    "keyword_match_score": 0
+  },
+  "bullets": {
+    "bullets": [
+      {
+        "source": "projects",
+        "parent_title": "3D Game",
+        "bullet_text": "Made a game with a game loop and sprite rendering.",
+        "has_action_verb": true,
+        "has_specific_technology": false,
+        "has_measurable_impact": false,
+        "level": "L1_OK",
+        "what_is_missing": "No specific technology named and no measurable impact stated."
+      },
+      {
+        "source": "projects",
+        "parent_title": "3D Game",
+        "bullet_text": "Built a level editor.",
+        "has_action_verb": true,
+        "has_specific_technology": false,
+        "has_measurable_impact": false,
+        "level": "L1_OK",
+        "what_is_missing": "No specific technology named and no measurable impact stated."
+      },
+      {
+        "source": "projects",
+        "parent_title": "3D Game",
+        "bullet_text": "Added mob spawner and enemy AI.",
+        "has_action_verb": true,
+        "has_specific_technology": false,
+        "has_measurable_impact": false,
+        "level": "L1_OK",
+        "what_is_missing": "No specific technology named and no measurable impact stated."
+      },
+      {
+        "source": "projects",
+        "parent_title": "3D Game",
+        "bullet_text": "Implemented HP bar and HUD using C++.",
+        "has_action_verb": true,
+        "has_specific_technology": true,
+        "has_measurable_impact": false,
+        "level": "L2_BETTER",
+        "what_is_missing": "No measurable impact stated."
+      },
+      {
+        "source": "projects",
+        "parent_title": "Game Jam Project",
+        "bullet_text": "Shipped a game in 48 hours.",
+        "has_action_verb": true,
+        "has_specific_technology": false,
+        "has_measurable_impact": true,
+        "level": "L1_OK",
+        "what_is_missing": "No specific technology named."
+      },
+      {
+        "source": "projects",
+        "parent_title": "Game Jam Project",
+        "bullet_text": "Did collision detection.",
+        "has_action_verb": true,
+        "has_specific_technology": false,
+        "has_measurable_impact": false,
+        "level": "L1_OK",
+        "what_is_missing": "No specific technology named and no measurable impact stated."
+      },
+      {
+        "source": "projects",
+        "parent_title": "Game Jam Project",
+        "bullet_text": "Made asset pipeline.",
+        "has_action_verb": true,
+        "has_specific_technology": false,
+        "has_measurable_impact": false,
+        "level": "L1_OK",
+        "what_is_missing": "No specific technology named and no measurable impact stated."
+      },
+      {
+        "source": "projects",
+        "parent_title": "Multiplayer Game",
+        "bullet_text": "Worked on multiplayer netcode.",
+        "has_action_verb": true,
+        "has_specific_technology": false,
+        "has_measurable_impact": false,
+        "level": "L1_OK",
+        "what_is_missing": "No specific technology named and no measurable impact stated."
+      },
+      {
+        "source": "projects",
+        "parent_title": "Multiplayer Game",
+        "bullet_text": "Built game loop and tiled map loading.",
+        "has_action_verb": true,
+        "has_specific_technology": false,
+        "has_measurable_impact": false,
+        "level": "L1_OK",
+        "what_is_missing": "No specific technology named and no measurable impact stated."
+      }
+    ],
+    "bullet_quality_avg": 37
+  },
+  "jargon": {
+    "flags": [],
+    "jargon_score": 100
+  },
+  "structure": {
+    "page_count_estimate": 1,
+    "single_column_likely": true,
+    "section_headings_present": [
+      "Projects",
+      "Education",
+      "Skills"
+    ],
+    "section_headings_missing": [
+      "Experience",
+      "Summary"
+    ],
+    "reverse_chronological_likely": true,
+    "contact_info_at_top": true,
+    "length_appropriate": true,
+    "no_images_or_graphics": true,
+    "ats_red_flags": [
+      {
+        "issue": "Missing Work Experience section",
+        "evidence": "The r\u00e9sum\u00e9 lacks a professional work experience section, which is a standard requirement for ATS parsing of career history."
+      }
+    ],
+    "structure_score": 85
+  },
+  "background_fit": {
+    "candidate_background_summary": "The candidate is currently pursuing a Bachelor of Science in Real-Time Interactive Simulation at DigiPen Institute of Technology, with an expected graduation in 2026. Their background is focused on game development, C++ programming, and engine experience in Unity and Unreal.",
+    "role_requirements_summary": "The role requires 1-2 years of experience in digital marketing, specifically in managing campaigns across Google Ads, Meta, and TikTok, along with a degree in Marketing, Communications, Business, or a related field.",
+    "alignment_commentary": "The candidate's background in technical game development and C++ programming does not align with the marketing, copywriting, and campaign management requirements of the role. Furthermore, the candidate lacks the required 1-2 years of professional marketing experience and the specified educational background in business or communications.",
+    "background_fit_score": 5
+  },
+  "overall_score": 32,
+  "passes_ats_threshold": false,
+  "summary": "- Your r\u00e9sum\u00e9 currently has a 0% keyword match score, as it is missing all required technical and soft skills for the role, including Google Ads, Meta Ads Manager, copywriting, and data analysis.\n- The document lacks a professional work experience section, which is a critical structural red flag that prevents standard ATS parsing of your career history.\n- There is a significant misalignment between your background in technical game development and the role's requirements for digital marketing experience, business-related education, and campaign management."
+}

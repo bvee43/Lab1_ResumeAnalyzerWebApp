@@ -1,0 +1,375 @@
+{
+  "meta": {
+    "resume_path": "inputs/strong_resume.pdf",
+    "job_path": "inputs/job_unrelated.txt",
+    "model": "gemini/gemini-3.1-flash-lite",
+    "generated_at": "2026-07-16T20:33:06"
+  },
+  "resume_profile": {
+    "name": "ALEX TAN MING WEI",
+    "contact": {
+      "email": "alex.tan@email.com",
+      "phone": "+65 9123 4567",
+      "linkedin": "linkedin.com/in/alextan",
+      "github": "github.com/alextan",
+      "portfolio": ""
+    },
+    "summary": "Systems-oriented RTIS graduate with hands-on experience building real-time\nsimulation systems, REST APIs, and containerised infrastructure tools.",
+    "education": [
+      {
+        "school": "DigiPen Institute of Technology Singapore",
+        "degree": "Bachelor of Science in Real-Time Interactive Simulation (RTIS)",
+        "graduation_date": "May 2026",
+        "courses": [
+          "Operating Systems",
+          "Computer Networks",
+          "Distributed Systems",
+          "Computer Graphics",
+          "Algorithms & Data Structures"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "title": "Distributed Task Scheduler",
+        "date": "Aug 2025 ? Dec 2025",
+        "bullets": [
+          "Designed a Python-based distributed task scheduler using Redis and Docker\n  that reduced job processing time by 40%, handling 500+ concurrent tasks.",
+          "Implemented RESTful APIs with FastAPI and deployed on AWS ECS using\n  Terraform, achieving 99.9% uptime over a 3-month period.",
+          "Automated CI/CD pipeline with GitHub Actions, cutting deployment time from\n  30 minutes to under 5 minutes."
+        ]
+      },
+      {
+        "title": "Real-Time Physics Engine",
+        "date": "Jan 2025 ? May 2025",
+        "bullets": [
+          "Built a real-time application loop in C++ with Vulkan rendering that\n  sustained 60 fps on 500+ dynamic objects simultaneously.",
+          "Implemented spatial algorithms (AABB broad-phase, SAT narrow-phase) in C++,\n  reducing collision computation time by 35%.",
+          "Deployed cross-platform on Windows and Linux using CMake."
+        ]
+      },
+      {
+        "title": "Linux Monitoring Dashboard",
+        "date": "Mar 2024 ? Jun 2024",
+        "bullets": [
+          "Developed a Prometheus + Grafana monitoring stack with Bash automation scripts\n  that detected system anomalies 3x faster than manual log review.",
+          "Containerised the stack with Docker Compose; integrated Kubernetes Helm charts\n  for scaling across 10-node clusters."
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "title": "Systems Engineering Intern",
+        "company": "Accenture Singapore",
+        "date": "May 2025 ? Aug 2025",
+        "bullets": [
+          "Automated infrastructure provisioning with Terraform and Ansible across\n  AWS GCP environments, reducing manual setup time by 60%.",
+          "Wrote Python scripts to parse and validate Kubernetes pod logs, enabling\n  the team to resolve incidents 50% faster."
+        ]
+      }
+    ],
+    "skills": {
+      "languages": [
+        "Python",
+        "C++",
+        "Go",
+        "Bash"
+      ],
+      "frameworks": [
+        "FastAPI",
+        "Pytest",
+        "gRPC"
+      ],
+      "tools": [
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "Ansible",
+        "Prometheus",
+        "Grafana",
+        "GitHub Actions"
+      ],
+      "concepts": [
+        "REST API",
+        "microservices",
+        "CI/CD",
+        "distributed systems",
+        "TCP/IP",
+        "DNS"
+      ],
+      "platforms": [
+        "AWS",
+        "GCP",
+        "Linux"
+      ]
+    }
+  },
+  "jd_profile": {
+    "job_title": "Marketing Specialist \u2014 Digital Campaigns",
+    "company": "FreshMart Singapore Pte Ltd",
+    "location": "Paya Lebar, Singapore",
+    "employment_type": "On-site",
+    "salary_range": {
+      "min": 3000,
+      "max": 4000,
+      "currency": "SGD"
+    },
+    "experience_required": "1\u20132 years",
+    "key_responsibilities": [
+      "Plan and execute multi-channel digital marketing campaigns (Google Ads, Meta, TikTok, email)",
+      "Manage social media content calendars and community engagement",
+      "Analyse campaign performance using Google Analytics and Meta Business Suite",
+      "Write copy for email newsletters, landing pages, and social media posts",
+      "Coordinate with the creative team for campaign assets",
+      "Report on KPIs: CAC, ROAS, CTR, conversion rate, retention"
+    ],
+    "required_skills": [
+      "Google Ads",
+      "Meta Ads Manager",
+      "Copywriting",
+      "Email marketing platforms (Mailchimp, Klaviyo, or similar)",
+      "Data analysis",
+      "Brand consistency"
+    ],
+    "preferred_skills": [
+      "A/B testing",
+      "Conversion rate optimisation",
+      "SEO fundamentals",
+      "Customer segmentation",
+      "Lifecycle marketing",
+      "Graphic design (Canva, Figma, or Adobe suite)"
+    ],
+    "education_requirements": "Diploma or degree in Marketing, Communications, Business, or related field"
+  },
+  "keyword_match": {
+    "present": [],
+    "missing": [
+      {
+        "keyword": "Google Ads",
+        "category": "tool",
+        "importance": "required",
+        "suggested_section": "skills",
+        "why_it_matters": "The JD requires experience planning and executing digital marketing campaigns specifically using Google Ads."
+      },
+      {
+        "keyword": "Meta Ads Manager",
+        "category": "tool",
+        "importance": "required",
+        "suggested_section": "skills",
+        "why_it_matters": "The JD requires proficiency in Meta Ads Manager for executing multi-channel digital marketing campaigns."
+      },
+      {
+        "keyword": "Copywriting",
+        "category": "soft_skill",
+        "importance": "required",
+        "suggested_section": "skills",
+        "why_it_matters": "The JD requires the ability to write copy for email newsletters, landing pages, and social media posts."
+      },
+      {
+        "keyword": "Email marketing platforms",
+        "category": "tool",
+        "importance": "required",
+        "suggested_section": "skills",
+        "why_it_matters": "The JD requires experience with email marketing platforms such as Mailchimp or Klaviyo."
+      },
+      {
+        "keyword": "Data analysis",
+        "category": "concept",
+        "importance": "required",
+        "suggested_section": "skills",
+        "why_it_matters": "The JD requires the ability to analyse campaign performance and report on KPIs like CAC, ROAS, and conversion rates."
+      },
+      {
+        "keyword": "Brand consistency",
+        "category": "concept",
+        "importance": "required",
+        "suggested_section": "skills",
+        "why_it_matters": "The JD lists brand consistency as a required skill for managing social media content and campaign assets."
+      },
+      {
+        "keyword": "A/B testing",
+        "category": "concept",
+        "importance": "preferred",
+        "suggested_section": "skills",
+        "why_it_matters": "The JD lists A/B testing as a preferred skill for optimizing digital marketing campaigns."
+      },
+      {
+        "keyword": "Conversion rate optimisation",
+        "category": "concept",
+        "importance": "preferred",
+        "suggested_section": "skills",
+        "why_it_matters": "The JD lists conversion rate optimisation as a preferred skill for improving campaign performance."
+      },
+      {
+        "keyword": "SEO fundamentals",
+        "category": "concept",
+        "importance": "preferred",
+        "suggested_section": "skills",
+        "why_it_matters": "The JD lists SEO fundamentals as a preferred skill for digital marketing roles."
+      },
+      {
+        "keyword": "Customer segmentation",
+        "category": "concept",
+        "importance": "preferred",
+        "suggested_section": "skills",
+        "why_it_matters": "The JD lists customer segmentation as a preferred skill for targeted marketing efforts."
+      },
+      {
+        "keyword": "Lifecycle marketing",
+        "category": "concept",
+        "importance": "preferred",
+        "suggested_section": "skills",
+        "why_it_matters": "The JD lists lifecycle marketing as a preferred skill for managing customer retention."
+      },
+      {
+        "keyword": "Graphic design",
+        "category": "tool",
+        "importance": "preferred",
+        "suggested_section": "skills",
+        "why_it_matters": "The JD prefers experience with graphic design tools like Canva, Figma, or the Adobe suite."
+      }
+    ],
+    "keyword_match_score": 0
+  },
+  "bullets": {
+    "bullets": [
+      {
+        "source": "projects",
+        "parent_title": "Distributed Task Scheduler",
+        "bullet_text": "Designed a Python-based distributed task scheduler using Redis and Docker\n  that reduced job processing time by 40%, handling 500+ concurrent tasks.",
+        "has_action_verb": true,
+        "has_specific_technology": true,
+        "has_measurable_impact": true,
+        "level": "L3_BEST",
+        "what_is_missing": "None"
+      },
+      {
+        "source": "projects",
+        "parent_title": "Distributed Task Scheduler",
+        "bullet_text": "Implemented RESTful APIs with FastAPI and deployed on AWS ECS using\n  Terraform, achieving 99.9% uptime over a 3-month period.",
+        "has_action_verb": true,
+        "has_specific_technology": true,
+        "has_measurable_impact": true,
+        "level": "L3_BEST",
+        "what_is_missing": "None"
+      },
+      {
+        "source": "projects",
+        "parent_title": "Distributed Task Scheduler",
+        "bullet_text": "Automated CI/CD pipeline with GitHub Actions, cutting deployment time from\n  30 minutes to under 5 minutes.",
+        "has_action_verb": true,
+        "has_specific_technology": true,
+        "has_measurable_impact": true,
+        "level": "L3_BEST",
+        "what_is_missing": "None"
+      },
+      {
+        "source": "projects",
+        "parent_title": "Real-Time Physics Engine",
+        "bullet_text": "Built a real-time application loop in C++ with Vulkan rendering that\n  sustained 60 fps on 500+ dynamic objects simultaneously.",
+        "has_action_verb": true,
+        "has_specific_technology": true,
+        "has_measurable_impact": true,
+        "level": "L3_BEST",
+        "what_is_missing": "None"
+      },
+      {
+        "source": "projects",
+        "parent_title": "Real-Time Physics Engine",
+        "bullet_text": "Implemented spatial algorithms (AABB broad-phase, SAT narrow-phase) in C++,\n  reducing collision computation time by 35%.",
+        "has_action_verb": true,
+        "has_specific_technology": true,
+        "has_measurable_impact": true,
+        "level": "L3_BEST",
+        "what_is_missing": "None"
+      },
+      {
+        "source": "projects",
+        "parent_title": "Real-Time Physics Engine",
+        "bullet_text": "Deployed cross-platform on Windows and Linux using CMake.",
+        "has_action_verb": true,
+        "has_specific_technology": true,
+        "has_measurable_impact": false,
+        "level": "L2_BETTER",
+        "what_is_missing": "No measurable outcome stated"
+      },
+      {
+        "source": "projects",
+        "parent_title": "Linux Monitoring Dashboard",
+        "bullet_text": "Developed a Prometheus + Grafana monitoring stack with Bash automation scripts\n  that detected system anomalies 3x faster than manual log review.",
+        "has_action_verb": true,
+        "has_specific_technology": true,
+        "has_measurable_impact": true,
+        "level": "L3_BEST",
+        "what_is_missing": "None"
+      },
+      {
+        "source": "projects",
+        "parent_title": "Linux Monitoring Dashboard",
+        "bullet_text": "Containerised the stack with Docker Compose; integrated Kubernetes Helm charts\n  for scaling across 10-node clusters.",
+        "has_action_verb": true,
+        "has_specific_technology": true,
+        "has_measurable_impact": true,
+        "level": "L3_BEST",
+        "what_is_missing": "None"
+      },
+      {
+        "source": "experience",
+        "parent_title": "Systems Engineering Intern",
+        "bullet_text": "Automated infrastructure provisioning with Terraform and Ansible across\n  AWS GCP environments, reducing manual setup time by 60%.",
+        "has_action_verb": true,
+        "has_specific_technology": true,
+        "has_measurable_impact": true,
+        "level": "L3_BEST",
+        "what_is_missing": "None"
+      },
+      {
+        "source": "experience",
+        "parent_title": "Systems Engineering Intern",
+        "bullet_text": "Wrote Python scripts to parse and validate Kubernetes pod logs, enabling\n  the team to resolve incidents 50% faster.",
+        "has_action_verb": true,
+        "has_specific_technology": true,
+        "has_measurable_impact": true,
+        "level": "L3_BEST",
+        "what_is_missing": "None"
+      }
+    ],
+    "bullet_quality_avg": 97
+  },
+  "jargon": {
+    "flags": [],
+    "jargon_score": 100
+  },
+  "structure": {
+    "page_count_estimate": 1,
+    "single_column_likely": true,
+    "section_headings_present": [
+      "Summary",
+      "Projects",
+      "Experience",
+      "Education",
+      "Skills"
+    ],
+    "section_headings_missing": [],
+    "reverse_chronological_likely": true,
+    "contact_info_at_top": true,
+    "length_appropriate": true,
+    "no_images_or_graphics": true,
+    "ats_red_flags": [
+      {
+        "issue": "Encoding artifacts in date ranges",
+        "evidence": "The character '?' appears in place of en-dashes or hyphens in date ranges (e.g., 'Aug 2025 ? Dec 2025')."
+      }
+    ],
+    "structure_score": 95
+  },
+  "background_fit": {
+    "candidate_background_summary": "Alex Tan Ming Wei is a student pursuing a Bachelor of Science in Real-Time Interactive Simulation, with internship experience in systems engineering, infrastructure automation, and cloud technologies.",
+    "role_requirements_summary": "The role requires 1-2 years of experience in digital marketing, proficiency in ad platforms like Google and Meta, copywriting skills, and a degree in Marketing, Communications, Business, or a related field.",
+    "alignment_commentary": "The candidate's background is entirely technical, focusing on software engineering, systems infrastructure, and C++/Python development, which does not align with the marketing, copywriting, and campaign management requirements of the role. There is no evidence of marketing experience, brand management, or the required educational background in business or communications.",
+    "background_fit_score": 5
+  },
+  "overall_score": 49,
+  "passes_ats_threshold": false,
+  "summary": "- Your r\u00e9sum\u00e9 has a 0% keyword match rate for this role, as it lacks all required marketing-specific skills such as Google Ads, Meta Ads Manager, copywriting, and data analysis.\n- There is a significant misalignment between your technical background in software engineering and systems infrastructure and the role's core requirements in digital marketing and brand management.\n- While your bullet points are high-quality and well-structured, the document contains encoding artifacts (question marks) in your date ranges that may interfere with ATS parsing."
+}
