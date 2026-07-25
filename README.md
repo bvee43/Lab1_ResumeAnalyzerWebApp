@@ -29,12 +29,12 @@ Reports are saved to `outputs/` as both `.json` and `.md`.
 
 | File | Your job |
 |---|---|
-| `parse.py` | ✏️ **Build with Claude** — Task 1 |
-| `prompts.py` | ✏️ **Build with Claude** — Task 3 |
-| `analyzer.py` | ✏️ **Build with Claude** — Task 4 |
-| `main.py` | ✅ Pre-provided and complete — read it as your blueprint |
-| `llm.py` | ✅ Pre-provided — read it, don't edit |
-| `report.py` | ✅ Pre-provided — read it, don't edit |
+| `parse.py` | ✏️ **Build with Claude**  |
+| `prompts.py` | ✏️ **Build with Claude**  |
+| `analyzer.py` | ✏️ **Build with Claude**  |
+| `main.py` | ✅ Pre-provided and complete  |
+| `llm.py` | ✅ Pre-provided   |
+| `report.py` | ✅ Pre-provided  |
 
 ## How to build each file
 
